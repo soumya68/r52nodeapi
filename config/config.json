@@ -1,0 +1,14 @@
+{
+    "test": {
+        "PORT": 3000,
+        "MONGODB_URI": "mongodb://localhost:27017/Unicef",
+        "JWT_SECRET": "SADWDAWADAcasdadwadacawdawd1213!@12121212",
+        "API_AUDIT": "http://139.162.18.54:3010/"
+    },
+    "development": {
+        "PORT": 5000,
+        "MONGODB_URI": "mongodb+srv://kunalsolace:Kunal2021@realmcluster.bulij.mongodb.net",
+        "JWT_SECRET": "fsdfaeqwdaef213124123123@!3123123SAdasdda",
+        "API_AUDIT": "http://139.162.18.54:3010/"
+    }
+}

@@ -1,0 +1,47 @@
+{
+  "IND": {
+    "countryName": "India",
+    "countryCurrency": "INR",
+    "redemption": {
+      "numberOfPoints": 100,
+      "currencyValue": 1,
+      "minimumOrderPrice": 1000
+    },
+    "earned": {
+      "numberOfPoints": 1,
+      "amountSpent": 100,
+      "minimumOrderPrice": 1000
+    },
+    "earnedPointsExpiryDays": 90
+  },
+  "KHM": {
+    "countryName": "Cambodia",
+    "countryCurrency": "KHM",
+    "redemption": {
+      "numberOfPoints": 100,
+      "currencyValue": 1,
+      "minimumOrderPrice": 100
+    },
+    "earned": {
+      "numberOfPoints": 1,
+      "amountSpent": 100,
+      "minimumOrderPrice": 100
+    },
+    "earnedPointsExpiryDays": 90
+  },
+  "PHL": {
+    "countryName": "Philippines",
+    "countryCurrency": "PHL",
+    "redemption": {
+      "numberOfPoints": 100,
+      "currencyValue": 1,
+      "minimumOrderPrice": 100
+    },
+    "earned": {
+      "numberOfPoints": 1,
+      "amountSpent": 100,
+      "minimumOrderPrice": 100
+    },
+    "earnedPointsExpiryDays": 60
+  }
+}

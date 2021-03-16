@@ -1,0 +1,10 @@
+
+
+{
+  "version": "v1",
+  "name": "development",
+  "PORT": 5000,
+  "MONGODB_URI": "mongodb+srv://soumya:12345@cluster0.iocs1.mongodb.net/Unicef",
+  "JWT_SECRET": "topSECRET!"
+}
+
